@@ -1,0 +1,76 @@
+{
+    "videos": [
+      {
+        "titulo": "Cuándo usar LET, VAR y CONST?",
+        "categoria": "FRONT END",
+        "imagen": "https://img.youtube.com/vi/PztCEdIJITY/hqdefault.jpg",
+        "video": "https://www.youtube.com/embed/PztCEdIJITY?si=eBMCvM0rsP688PTC",
+        "descripcion": "¿A veces cuando estás programando sientes dificuldades en saber en qué momento utilizar let, var o const para declarar una variable? En este video te sacamos estas dudas, además de explicarte lo que es escopo global y local en JavaScript.",
+        "id": "1"
+      },
+      {
+        "titulo": "Spring Framework",
+        "categoria": "BACK END",
+        "imagen": "https://img.youtube.com/vi/t-iqt1b2qqk/hqdefault.jpg",
+        "video": "https://www.youtube.com/embed/t-iqt1b2qqk?si=i3gRzXHv5MTNqqD_",
+        "descripcion": "¿Busca un framework  para utilizar en sus proyectos? ¿Conoce Spring Framework? Spring es el framework más usado de Java.",
+        "id": "2"
+      },
+      {
+        "titulo": "¿Qué son las Soft Skills?",
+        "categoria": "INNOVACIÓN Y GESTIÓN",
+        "imagen": "https://img.youtube.com/vi/vhwspfvI52k/hqdefault.jpg",
+        "video": "https://www.youtube.com/embed/vhwspfvI52k?si=xto7QZ0kTl9ddUFW",
+        "descripcion": "¿Qué son las Softskills y por qué es tan importante desarrollarlas para posicionarse en el mercado laboral? En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills te ayudan en el día a día.",
+        "id": "3"
+      },
+      {
+        "titulo": "¿Qué es JavaScript?",
+        "categoria": "FRONT END",
+        "imagen": "https://img.youtube.com/vi/GJfOSoaXk4s/hqdefault.jpg",
+        "video": "https://www.youtube.com/embed/GJfOSoaXk4s?si=lhflcPtiKmoaXUnN",
+        "descripcion": "JavaScript: ¿qué es y cómo se hizo este lenguaje que genera muchas discusiones y debates entre la gente del área de desarrollo? Genesys y Gabriela nos hablan exactamente de esto en este Alura Tips. ",
+        "id": "4"
+      },
+      {
+        "titulo": "¿Que es SQL y NoSQL?",
+        "categoria": "BACK END",
+        "imagen": "https://img.youtube.com/vi/cLLKVd5CNLc/hqdefault.jpg",
+        "video": "https://www.youtube.com/embed/cLLKVd5CNLc?si=HtepLUL1eYxP-ETG",
+        "descripcion": "¿Cuáles son las diferencias entre una estructura de datos relacional (SQL) y una no relacional (NoSQL) y cuáles son las principales ventajas de cada una? Álvaro Camacho lo explica en este vídeo.",
+        "id": "5"
+      },
+      {
+        "titulo": "7 Soft Skills más deseadas por las empresas #AluraMás",
+        "categoria": "INNOVACIÓN Y GESTIÓN",
+        "imagen": "https://img.youtube.com/vi/YhR7Zp8NUzE/hqdefault.jpg",
+        "video": "https://www.youtube.com/embed/YhR7Zp8NUzE?si=7BqnBjOr8ai_pnPa",
+        "descripcion": "Seguro que ya escuchaste hablar sobre las Soft Skills, pero ¿sabes cuáles son las 7 más buscadas por las empresas? Quédate en este video con nosotros que vamos a explicarte la importancia de estas habilidades y porque son tan requeridas en el mercado laboral.",
+        "id": "6"
+      },
+      {
+        "titulo": "Equipo Front End",
+        "categoria": "FRONT END",
+        "imagen": "https://img.youtube.com/vi/rpvrLaBQwgg/hqdefault.jpg",
+        "video": "https://www.youtube.com/embed/rpvrLaBQwgg?si=v1WUaZvYkSa0mufh",
+        "descripcion": "En este Alura+ nuestra instructora front-end, Jeanmarie Quijada, nos ayudará a entender que es Box Model, uno de los conceptos fundamentales para la construcción correcta de layouts de páginas web.\n",
+        "id": "7"
+      },
+      {
+        "titulo": "Simplificando tu código en Java: Conoce los enum #AluraMás",
+        "categoria": "BACK END",
+        "imagen": "https://img.youtube.com/vi/EoPvlE85XAQ/hqdefault.jpg",
+        "video": "https://www.youtube.com/embed/EoPvlE85XAQ?si=P5qHWK_cvQkOX0yn",
+        "descripcion": "¿Escribir muchas variables del tipo constantes en Java te parece un proceso tedioso y que genera muchas líneas de código? En este Alura+ la instructora Génesys Rondón nos enseña a simplificar esta tarea usando un tipo de dato especial llamado enum.",
+        "id": "9"
+      },
+      {
+        "id": "a85b",
+        "titulo": "¿Qué son las metodologias ágiles?",
+        "categoria": "INNOVACIÓN Y GESTIÓN",
+        "imagen": "https://img.youtube.com/vi/6N3OkLCfK-0/hqdefault.jpg",
+        "video": "https://www.youtube.com/embed/6N3OkLCfK-0?si=qw5I9E0R-e63XD8t",
+        "descripcion": "En este video nuestra invitada, Andyara, nos explicará que són las muy conocidas hoy en día metodologias ágiles y nos comentará un poco sobre como aplicarlas y cuáles son los beneficios de utilizarlas en su equipo o empresa."
+      }
+    ]
+  }
